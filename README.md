@@ -11,11 +11,21 @@ Interesting links :point_down:
 - :rocket: [Twitter](https://twitter.com/BelloYoiner)
 
 
+
+<p align="center">
 Listo, pueden proseguir...
+</p>
 
-![alt text](https://c.tenor.com/7Tu-pBzg0_kAAAAd/programming.gif)
-
+<p align="center">
 Adios, Bye, Chao, See ya, Arrivederci
+</p>
+
+
+
+<p align="center">
+  <img width="460" height="300" src="https://c.tenor.com/7Tu-pBzg0_kAAAAd/programming.gif">
+</p>
+
 
 
 
