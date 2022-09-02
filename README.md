@@ -1,18 +1,22 @@
-### System.out.println("Hello World"); 👋
+## System.out.println("Hello World"); 👋
 
-![alt text](https://c.tenor.com/LGU1GX9eV3MAAAAC/hello-sexy-hi.gif)
 
-<!--
-**yoinercoding/yoinercoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sometimes I'm a software developer, sometimes I just enjoy coding :D. Always in constant learning. I have worked through agile methodologies such as Scrum. My main programming languages/frameworks/technologies are: - Java - Spring Boot - Spring Security - Hibernate JPA - API REST - Microservices - MySQL Workbench - SQL Server Enterprise Edition - JasperSoft Studio - Angular - TypeScript - POO - Maven - MVC - XML - HTML - CSS - Git / GitHub - Docker
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesting links :point_down:
+
+
+- 🔭 [Linkedln](https://www.linkedin.com/in/yoinerbello/)
+- :rocket: [Twitter](https://twitter.com/BelloYoiner)
+- :mailbox: [Email](yoinerbello1998@gmail.com)
+
+
+Listo, pueden proseguir...
+
+![alt text](https://c.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
+
+Adios, Bye, Chao, See ya, Arrivederci
+
+
+
