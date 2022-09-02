@@ -9,7 +9,6 @@ Interesting links :point_down:
 
 - 🔭 [Linkedln](https://www.linkedin.com/in/yoinerbello/)
 - :rocket: [Twitter](https://twitter.com/BelloYoiner)
-- :mailbox: [Email](yoinerbello1998@gmail.com)
 
 
 Listo, pueden proseguir...
