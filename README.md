@@ -1,4 +1,6 @@
-### Hi there 👋
+### System.out.println("Hello World"); 👋
+
+![alt text](https://tenor.com/view/hello-sexy-hi-hello-mr-bean-wave-gif-16572049)
 
 <!--
 **yoinercoding/yoinercoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
