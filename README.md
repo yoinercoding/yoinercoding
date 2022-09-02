@@ -13,7 +13,7 @@ Interesting links :point_down:
 
 Listo, pueden proseguir...
 
-![alt text](https://c.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)
+![alt text](https://c.tenor.com/7Tu-pBzg0_kAAAAd/programming.gif)
 
 Adios, Bye, Chao, See ya, Arrivederci
 
