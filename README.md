@@ -15,13 +15,3 @@ Listo, pueden proseguir...
 <p align="center">
 Adios, Bye, Chao, See ya, Arrivederci
 </p>
-
-
-
-<p align="center">
-  <img width="460" height="300" src="https://c.tenor.com/7Tu-pBzg0_kAAAAd/programming.gif">
-</p>
-
-
-
-
