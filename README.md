@@ -5,4 +5,3 @@ Links :point_down:
 
 - 🔭 [Linkedln](https://www.linkedin.com/in/yoinerbello/)
 - :rocket: [Twitter](https://twitter.com/BelloYoiner)
-- :computer:  [Web](https://yoinerbello.netlify.app/)
